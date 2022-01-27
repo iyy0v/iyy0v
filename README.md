@@ -5,7 +5,7 @@
 - 👨‍💻 I'm learning CyberSec on the side (still a newbie 😅).
 - 🔰 I'm currently a member of the [Shellmates][shellmates] club and the [MicroClub][microclub].
 - 🎯 2022 Goals: learn other new technologies, learn WebDev and become more advanced in CyberSec.
-- ⭐ More about me: I love Gaming and Art especially drawing.
+- ⭐ More about me: I used to play FPS games competitivly, but not anymore.
 
 ### Languages and Tools:
 
