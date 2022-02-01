@@ -2,9 +2,9 @@
 
 ## I'm a CS Student and a CyberSec enthusiast !
 - 👨‍🎓 I'm currently preparing for my Bachelor degree in CS at [USTHB][usthb].
-- 👨‍💻 I'm learning CyberSec on the side (still a newbie 😅).
+- 👨‍💻 I'm learning Web Development and a bit of Cyber Security.
 - 🔰 I'm currently a member of the [Shellmates][shellmates] club and the [MicroClub][microclub].
-- 🎯 2022 Goals: learn other new technologies, learn WebDev and become more advanced in CyberSec.
+- 🎯 2022 Goals: learn WebDev, become more advanced in CyberSec and learn other new technologies.
 - ⭐ More about me: I used to play FPS games competitively, but not anymore.
 
 ### Languages and Tools:
