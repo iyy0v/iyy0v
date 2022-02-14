@@ -14,6 +14,7 @@
 [<img align="left" alt="iyy0v | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iyy0v | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
+<br><br>
 
 ### Languages and Tools:
 
