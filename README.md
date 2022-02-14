@@ -19,9 +19,6 @@
 [<img align="left" alt="Bash" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />][getRRed]
 [<img align="left" alt="VSCode" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][getRRed]
 
-
-<br>
-<br>
 <br>
 
 ### Connect with me:
