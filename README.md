@@ -20,6 +20,7 @@
 
 [<img align="left" alt="HTML5" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" />][getRRed]
 [<img align="left" alt="CSS3" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" />][getRRed]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" />][getRRed]
 [<img align="left" alt="Sass" width="60px" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" />][getRRed]
 [<img align="left" alt="Python" width="50px" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" />][getRRed]
 [<img align="left" alt="C" width="50px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" />][getRRed]
