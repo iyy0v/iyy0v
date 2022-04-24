@@ -1,6 +1,6 @@
 ### Yo, I'm Ayoub - aka iyy0v !
 
-## I'm a CS Student and a CyberSec enthusiast !
+## I'm a CS Student and a Tech enthusiast !
 - 👨‍🎓 I'm currently preparing for my Bachelor degree in CS at [USTHB][usthb].
 - 👨‍💻 I'm learning Web Development and a bit of Cyber Security.
 - 🔰 I'm currently a member of the [Shellmates][shellmates] club and the [MicroClub][microclub].
