@@ -2,9 +2,9 @@
 
 ## I'm a CS Student and a WebDev enthusiast !
 - 👨‍🎓 I have a Bachelor degree in CS at [USTHB][usthb].
-- 👨‍💻 I'm learning Web Development and a bit of Cyber Security.
-- 🔰 I'm currently a member of the [Shellmates][shellmates] club and the [MicroClub][microclub].
-- 🎯 2022 Goals: learn WebDev, become more advanced in CyberSec and learn other new technologies.
+- 👨‍💻 I'm focusing on improving my Web Development skills (Front-End for the moment).
+- 🔰 Ex-member of the [Shellmates][shellmates] club.
+- 🎯 2022 Goals: learn WebDev, some GameDev anD maybe other technologies.
 - ⭐ More about me: I used to play FPS games competitively, but not anymore.
 
 ### Connect with me:
@@ -34,7 +34,6 @@
 
 [usthb]: https://www.usthb.dz
 [shellmates]: https://www.shellmates.club/
-[microclub]: https://microclub.net/
 [twitter]: https://twitter.com/AyoubNaitMihoub
 [linkedin]: https://www.linkedin.com/in/ayoubnaitmihoub/
 [facebook]: https://www.facebook.com/NaitmihoubAyoub/
