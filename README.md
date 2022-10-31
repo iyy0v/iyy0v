@@ -21,7 +21,7 @@
 [<img align="left" alt="HTML5" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" />][getRRed]
 [<img align="left" alt="CSS3" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" />][getRRed]
 [<img align="left" alt="Sass" width="60px" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" />][getRRed]
-[<img align="left" alt="Tailwind" width="60px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" />][getRRed]
+[<img align="left" alt="Tailwind" width="70px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" />][getRRed]
 [<img align="left" alt="JavaScript" width="50px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" />][getRRed]
 [<img align="left" alt="React" width="60px" src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" />][getRRed]
 [<img align="left" alt="Python" width="50px" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" />][getRRed]
