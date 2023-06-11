@@ -1,11 +1,11 @@
 ### Yo, I'm Ayoub - aka iyy0v !
 
 ## I'm a CS Student and a WebDev enthusiast !
-- 👨‍🎓 I have a Bachelor degree in CS at [USTHB][usthb].
+- 👨‍🎓 I have a Bachelor degree in CS and currently preparing for my Master degree in Software Engineering at [USTHB][usthb].
 - 👨‍💻 I'm focusing on improving my Web Development skills (Front-End for the moment).
 - 🔰 Ex-member of the [Shellmates][shellmates] club.
-- 🎯 2022 Goals: learn WebDev, some GameDev anD maybe other technologies.
-- ⭐ More about me: I used to play FPS games competitively, but not anymore.
+- 🎯 2023 Goals: become more and more advanced in WebDev and start learning back-end too.
+- ⭐ More about me: Challenges excites me like crazy!
 
 ### Connect with me:
 
