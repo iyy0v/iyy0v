@@ -3,7 +3,7 @@
 ## About me
 - 👨‍🎓 I have a Bachelor degree in Computer Science and currently preparing for my Master degree in Software Engineering at [USTHB][usthb].
 - 👨‍💻 I'm focusing on improving my Web Development skills while working on many projects.
-- 🔰 Ex-member of the [Shellmates][shellmates] club.
+- 🔰 Current IT Developer at [MicroClub][microclub] and Ex-member of the [Shellmates][shellmates] club.
 - ⭐ More about me: I learned how to use a computer before I learned how to read.
 
 
@@ -52,6 +52,7 @@
 [<img align="left" alt="iyy0v | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 [usthb]: https://www.usthb.dz
+[microclub]: https://www.instagram.com/microclub_usthb/
 [shellmates]: https://www.shellmates.club/
 [twitter]: https://twitter.com/AyoubNaitMihoub
 [linkedin]: https://www.linkedin.com/in/ayoubnaitmihoub/
