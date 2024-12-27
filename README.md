@@ -1,9 +1,9 @@
 ### Yo, I'm Ayoub - aka iyy0v !
 
 ## About me
-- 👨‍🎓 I have a Bachelor degree in Computer Science and currently preparing for my Master degree in Software Engineering at [USTHB][usthb].
-- 👨‍💻 I'm focusing on improving my Web Development skills while working on many projects.
-- 🔰 Current IT Developer at [MicroClub][microclub] and Ex-member of the [Shellmates][shellmates] club.
+- 👨‍🎓 Bachelor degree in Computer Science & Master degree in Software Engineering at [USTHB][usthb].
+- 👨‍💻 Focusing on improving my Web Development skills while playing in other fields too.
+- 🔰 Ex-member of [MicroClub][microclub] and [Shellmates][shellmates] club.
 - ⭐ More about me: I learned how to use a computer before I learned how to read.
 
 
